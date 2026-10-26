@@ -13,8 +13,8 @@
 [Key Features](#-key-features) • [Architecture](#-architecture) • [How to Use](#-how-to-use) • [Export Engine](#-dedicated-export--separation-engine) • [Categories](#-supported-categories) • [Installation](#-quick-start)
 
 <br/>
+<img width="1364" height="762" alt="Screenshot 2026-10-26 151237" src="https://github.com/user-attachments/assets/c179b1ff-3e5e-4181-8b09-70390af9d79c" />
 
-<img src="screenshot.png" alt="SmartSort Windows 11 Fluent Dashboard" width="850"/>
 
 </div>
 
